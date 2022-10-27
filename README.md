@@ -1,4 +1,7 @@
 # Лабораторная работа №0
-L0.ipynb - код
-L0_Otchet.docx.pdf - оформленный отчет
-dataset.csv - данные
+<ul>
+  <li>L0.ipynb - код</li>
+  <li>L0_Otchet.docx.pdf - оформленный отчет/li>
+  <li>dataset.csv - данные</li>
+</ul>
+
